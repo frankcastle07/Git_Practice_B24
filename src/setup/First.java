@@ -10,6 +10,9 @@ public class First {
 
         // The text doesn't matter
 
+        // third commit
+
+        // more lines
 
     }
 }
